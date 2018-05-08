@@ -1,0 +1,42 @@
+li{
+display: inline-block;
+}
+
+#menu{
+float: right
+}
+
+.header{
+display: inline-block;
+}
+
+#nombre{
+float:left;
+}
+
+#header_menu{
+float: left;
+}
+
+#header_logo{
+float: left;
+}
+
+#content1{
+width: 90%;
+height: 100px;
+margin: 0 auto;
+background-color: violet;
+}
+
+#titulo{
+font-weight: bold;
+text-align: center;	
+padding-top: 25px;
+padding-bottom: 25px;
+color: white;
+}
+
+ul{
+display: inline-block;
+}
